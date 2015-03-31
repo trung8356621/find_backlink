@@ -1,0 +1,36 @@
+.Ad_Table{
+    width:95%;
+    margin:20px 2%;
+    text-align: center;
+}
+.Ad_Table th{
+    color:#fff;
+    font-weight: bold
+}
+.Ad_Table th,.Ad_Table td{
+    height: 30px;
+    line-height: 30px;
+}
+.Ad_Table img{
+    margin-top: 5px;
+}
+#Tbl_Add{
+    float: left;
+    width: 400px;
+    padding: 20px;
+}
+#Tbl_Add input,#Tbl_Add select{
+    height: 30px;
+    width: 250px;
+    margin: 10px 0px;
+}
+#Tbl_Add label{
+    font-weight: bold;
+}
+/*form */
+.Form{
+    padding: 10px;
+}
+.Form .But{
+    float: right;
+}

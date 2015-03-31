@@ -1,0 +1,96 @@
+#Dad{
+    height: 100%;
+}
+#Ad_Box{
+    height: 270px;
+    width: 400px;
+    margin: 150px auto;
+}
+#AB_Head{
+    height: 40px;
+    line-height: 40px;
+    font-weight: bold;
+    color:#Fff;
+    padding: 0px 10px;
+    font-size: 1.2em;
+}
+#Ad_Box .But{
+    float: right;
+    margin-right: 30px;
+}
+#Ad_Box input{
+    margin-top: 20px;
+}
+.Text{
+    height: 40px;
+    font-size: 1.1em;
+    width:350px;
+    margin: 10px 5px;
+}
+.Err{
+    font-weight: bold;
+}
+#Left{
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+#Right{
+    width: 75%;
+    float: left;
+}
+#Left h1{
+    font-size: 2em;
+    color: #fff;
+    padding:20px 10px;
+}
+#log_info{
+    width: 100%;
+}
+#log_info .But_2{
+    float: right;
+}
+#Ad_Menu{
+    margin-top: 20px;
+}
+#Ad_Menu .iterm{
+    height: 40px;
+    line-height: 40px;
+    color:#fff;
+    margin: 10px 0px;
+    cursor: pointer;
+    border-bottom: 1px dotted #fff;
+}
+#Ad_Menu .iterm span{
+    float: left;
+    margin-left: 10px;
+    font-weight: bold;
+}
+.iterm_info{
+    float: right;
+    height: 40px;
+    line-height: 40px;
+    display: none;
+}
+.ii_info{
+    background: #777;
+    border-radius: 5px;
+    float: left;
+    color:#fff;
+    height: 30px;
+    line-height: 30px;
+    margin: 5px;
+    padding: 0px 10px;
+}
+.tit_tbl{
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    padding:0px 10px;
+    color:#FFf;
+    font-size: 1.1em;
+    margin:20px 0px;
+}
+.Clear{
+    clear:both;
+}
