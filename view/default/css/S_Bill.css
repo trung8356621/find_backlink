@@ -1,0 +1,40 @@
+#con{
+    width: 80%;
+    margin-left: 10%;
+}
+#con h1{
+    height: 50px;
+    line-height: 50px;
+    padding-left: 5%;
+    color:#fff;
+}
+#info{
+}
+#info p{
+    margin: 50px 0px;
+}
+#info b{
+    margin-left: 1%;
+    padding: 10px;
+    color:#fff;
+}
+#info span{
+    margin-left: 2%;
+}
+#con table{
+    width: 100%;
+}
+#con table div.tc{
+    height: 30px;
+    line-height: 30px;
+    padding: 1%;
+}
+#con table input[type="text"]{
+    height: 30px;
+    width: 90%;
+}
+#con table th{
+    padding: 1%; 
+    color:#fff;
+    font-weight: bold;
+}

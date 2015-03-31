@@ -1,0 +1,32 @@
+#tbl_UC{
+    margin: 10px;
+    clear: both;
+}
+.UC div{
+    height: 50px;
+    line-height: 50px;
+    color:#fff;
+    font-weight: bold;
+    margin:0 2px;
+}
+.UC_FH{
+    background: #EFEFEF;
+    font-weight: bold;
+    height: 40px;
+    line-height: 40px;
+    padding: 0px 5px;
+}
+.UC_FH a.UC_But,.UC a{
+    display: none;
+    float: right;
+    margin:8px;
+}
+.Fir{
+    background: transparent;
+}
+.add{
+    display: none;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+}

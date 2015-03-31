@@ -1,0 +1,170 @@
+#head_info{
+    width: 98%;
+    background: #EFEFEF;
+    margin:10px;
+}
+#head_info td,#head_info th{
+    vertical-align: middle;
+    text-align: center;
+}
+#head_info td{
+    height: 100px;
+    line-height: 100px;
+    font-size: 1.5em;
+}
+#head_info td:hover{
+    background: #8EB9FF;
+}
+#head_info th{
+    height: 30px;
+    line-height: 30px;
+    background: #D84734;
+    color:#Fff;
+    font-weight: bold;
+}
+#link_false{
+    position: relative;
+    font-weight: bold;
+    height: 80px;
+    line-height: 80px;
+    font-size: 1.5em;
+    margin: 0 auto;
+}
+#link_false img{
+    position: absolute;
+}
+#link_false span{
+    margin-left: 100px;
+}
+#bl_info{
+    width: 20%;
+    float: left;
+}
+.bl_info{
+    width: 100%;
+    margin:10px;
+}
+.bli_head{
+    color:#fff;
+}
+.bl_info .bli_con,.bl_info .bli_head{
+    height: 30px;
+    line-height: 30px;
+    padding: 2%;
+    font-weight: bold;
+}
+.bl_info .bli_con{
+    background: #EFEFEF;
+}
+.bl_info a{
+    float: right;
+    text-decoration: none;
+}
+.bl_info a:hover{
+    text-decoration: underline;
+}
+.bl_info div .But_2{
+    height: 25px;
+    line-height: 25px;
+    padding:0px 1%;
+    float: right;
+}
+.bl_info div .But_2 a{
+    color:#fff;
+}
+.bl_info_tb{
+    float: left;
+}
+.bl_info_tb{
+    margin: 10px 1%;
+    width: 75%;
+    float: right;
+}
+#bl_info_head{
+    height: 50px;
+    line-height: 50px;
+}
+#bl_info_head #bl_In{
+    width: 30%;
+}
+#bl_info_head .But,#bl_info_head input{
+    height: 40px;
+    line-height: 40px;
+    padding: 0px 1%;
+    margin:5px 0.5%;
+    float:left;
+    border: none;
+}
+.bl_info_tb table{
+    width: 100%;
+}
+.bl_info_tb table th{
+    background: #C4C4C4;
+    border-right: 1px solid #fff;
+    text-align: left;
+}
+.bl_info_tb table th,.bl_info_tb table td{
+    padding: 1%;
+    vertical-align: middle;
+
+}
+.bl_info_tb table .lnk,.bl_info_tb table a{
+    color: #1A67A9;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-decoration: none;
+}
+.bl_info_tb table a:hover{
+    text-decoration: underline;
+}
+.chart{
+    width: 50%;
+    float: left;
+}
+.char_c{
+    margin: 10px;
+    width: 70%;
+    margin-left: 15%;
+}
+.char_cs .char_c{
+    margin: 10px;
+    width: 35%;
+    margin-left: 30%;
+}
+.chart_name{
+    padding: 10px;
+    background: #4285F4;
+    margin: 10px 15%;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
+#social_box{
+    float: right;
+    margin: -40px 0;
+    width: 100%;
+}
+#social_box li{
+    height: 20px;
+    line-height: 20px;
+    float: left;
+    margin:0px 10px;
+    font-size: 0.8em;
+}
+#pag_box{
+    float: right;
+    width: 18%;
+}
+#pag_box div{
+    float: left;
+}
+#pag_box .But{
+    padding: 0px 5%;
+    height: 25px;
+    line-height: 25px;
+    margin-top: 12px;
+}
+#pag_box #pagging{
+    color: #fff;
+    font-weight: bold;
+}
